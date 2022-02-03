@@ -7,3 +7,6 @@ This was one of the first projects for Scrimba's Front-End Developer Career Path
 - HTML
 - CSS
 - Javascript
+
+# Preview
+<img src="https://github.com/thejoshyee/blackjack-game/blob/main/black-jack-preview.png" width="50%" />
